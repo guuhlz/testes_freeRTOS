@@ -1,0 +1,6 @@
+.devcontainer
+.vscode
+Makefile
+component.mk
+build
+sdkconfig
